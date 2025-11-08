@@ -26,7 +26,7 @@ export default function Navbar() {
           {/* Logo */}
       <Link href="/" className="flex items-center gap-2">
         <Image
-          src="/logo.png" // Place your uploaded file in public/logo.png
+          src="/logo1.jpg" // Place your uploaded file in public/logo.png
           alt="LevTech Solutions"
           width={120}
           height={40}
